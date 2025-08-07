@@ -90,15 +90,9 @@ Airplane-Performance-Tracker-PowerBI/
 ## 🙋‍♂️ About Me
 
 **Sriharsha Asapu**  
-🚀 Master's in Information Systems @ Saint Louis University  
-🎯 Passionate about data storytelling, analytics, and turning chaos into clarity  
+🚀 Master's in Information Systems @ Saint Louis University
 📫 [LinkedIn](https://www.linkedin.com/in/baba-sriharsha-asapu)
 
----
-
-## 📬 Want to See the Full Dashboard?
-
-DM me or connect on LinkedIn — I'd be happy to walk you through the project, share the `.pbix` file, or discuss how it was built from scratch.
 
 ---
 
